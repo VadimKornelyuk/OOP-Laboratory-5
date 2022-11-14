@@ -1,4 +1,4 @@
-﻿public class EbaloNaNolik
+﻿public class Program
 {
     public static void Main(string[] args)
     {
